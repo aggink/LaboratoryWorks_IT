@@ -48,10 +48,16 @@
 
 ## ✅ Лабораторная работа № 3
 
-Работа с Сisco Packet Tracer.
+[Сценарий](https://github.com/aggink/LaboratoryWorks_IT/blob/main/Network%20Setup/Project.pka?raw=true) содержит созданную логическую топологию в виде составной сети, моделирующей корпоративную сеть условного предприятия, подключенную к сети Интернет. Для настройки сценарий произведен расчет IP-адресов локальных сетей и устройств, настроены все устройства (компьютеры и маршрутизаторы), настроена маршрутизация и списки контроля доступа.
+
+Этапы настройки сценария:
+1. Расчёт IP-адресов и настройка локальных сетей.
+2. Настройка устройств.
+3. Настройка маршрутизации.
+4. Настройка ACL.
 
 Материалы о выполнении лабораторной работы:
-* Проект: [Project](https://github.com/aggink/LaboratoryWorks_IT/blob/main/Network%20Setup/Project.pka?raw=true)
+* Проект: [Сценарий](https://github.com/aggink/LaboratoryWorks_IT/blob/main/Network%20Setup/Project.pka?raw=true)
 * Информация о конфигурации устройств: [Device Configuration Information](https://github.com/aggink/LaboratoryWorks_IT/blob/main/Network%20Setup/Device%20Configuration%20Information.pdf)
 * Сценарий для настройки устройств: [Command script in cisco](https://github.com/aggink/LaboratoryWorks_IT/blob/main/Network%20Setup/Command%20script%20in%20cisco.txt)
 
