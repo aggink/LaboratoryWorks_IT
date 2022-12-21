@@ -59,4 +59,4 @@
 
 Ответ на экзаменационный билет доступен по ссылке:
 * [Билет №23 - Применение методологии и инструментов DevOps в веб-разработке](https://github.com/stankin/inet-2022/wiki/exam23)
-* [Committed - Применение методологии и инструментов DevOps в веб-разработке](https://github.com/stankin/inet-2022/wiki/exam23/fbe7996e120251f909c836745bbb2445c47d7939)
+* [Committed - Применение методологии и инструментов DevOps в веб-разработке]([https://github.com/stankin/inet-2022/wiki/exam23/fbe7996e120251f909c836745bbb2445c47d7939](https://github.com/stankin/inet-2022/wiki/exam23/_compare/fbe7996e120251f909c836745bbb2445c47d7939...ca0c8a452e22a948aaa82df48d0d2951d762fb2b))
